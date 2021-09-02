@@ -447,9 +447,9 @@ ${chalk.blue.italic('Made By TOXIC-DEVIL')}`);
                             }
                         }
                     }
-                 }
-              )
-    };
+                }
+            )
+        }
             
     try {
         await conn.connect();
